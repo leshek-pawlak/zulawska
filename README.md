@@ -2,4 +2,4 @@
 
 [kliknij tutaj](http://żuławska.pl)
 
-### działka budowlana 595m2 za 380 tys. zł (cena do negocjacji)
+### działka budowlana 545m<sup>2</sup> za 380 tys. zł (cena do negocjacji)
