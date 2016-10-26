@@ -1,0 +1,26 @@
+{
+  "name": "Zulawska",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "gulp",
+    "dev": "gulp run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:leshek-pawlak/zulawska.git"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.5.1",
+    "browser-sync": "^2.17.5",
+    "cssnano": "^3.8.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.10"
+  }
+}
